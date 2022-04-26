@@ -1,3 +1,3 @@
 # zooAcad
-second project
-This was easier than I expected.
+second project.
+ This was easier than I expected.
